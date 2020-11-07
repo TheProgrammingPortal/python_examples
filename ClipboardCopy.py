@@ -7,7 +7,7 @@ import pyperclip
 pyperclip.copy('data from clipboard.')
 print(pyperclip.paste())
 
-# Method 12- using pandas module
+# Method 2- using pandas module
 # pip install pandas
 # pip3 install pandas
 
