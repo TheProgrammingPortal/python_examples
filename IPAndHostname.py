@@ -9,7 +9,7 @@ try:
     print(socket.gethostbyname_ex(hostname)) # Return a triple (hostname, aliaslist, ipaddrlist)
 
 except:
-    print('error while getting hostname or invalid hostname!')
+    print('error while getting IP address or invalid hostname!')
 
 
 
